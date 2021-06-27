@@ -1,0 +1,1 @@
+export const base_uri = "https://rickandmortyapi.com/api/character/"
